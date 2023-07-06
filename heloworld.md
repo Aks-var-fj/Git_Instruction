@@ -1,5 +1,15 @@
 https://code.visualstudio.com/Download
 
+
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
+Ссылка по гиту
+
+https://git-scm.com/book/ru/v2
+мануалы С.Чакон, Б.Штрауб - Git для профессионального программиста (2016)
+
+
+
+                        
 # Work with Git #
 ## 1. Проверка наличия установленного Git
 В терминале выполнить команду `git --version`.
@@ -25,3 +35,4 @@ while (n < 0)
 ```
 git init
 ```
+ 
