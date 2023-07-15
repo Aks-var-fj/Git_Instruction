@@ -1,4 +1,4 @@
-![Шинша](12.jpg)                   
+![Шинша](12.png)                   
 https://code.visualstudio.com/Download
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 Ссылка по гиту
@@ -108,7 +108,7 @@ git branch
 git checkout <branch_name>
 git checkout -b <new_branch_name>   (для создания и переключения на новую ветку)
 git switch <branch_name>
-git switch -c <new_branch_name>        (для создания и переключения на новую ветку)
+git switch -c <new_branch_name>     (для создания и переключения на новую ветку)
 git switch -        (для переключения между двумя последними активными ветками)
 ```
 ## 10. Слияние веток и разрешение конфликтов
